@@ -1,0 +1,38 @@
+[
+  {
+    "name": "One",
+    "id": 1,
+    "url1": "https://robohash.org/",
+    "url2": ".png?set=set1&size=150x180",
+    "health": 120,
+    "attack": 6,
+    "url": ""
+  },
+  {
+    "name": "Two",
+    "id": 2,
+    "url1": "https://robohash.org/",
+    "url2": ".png?set=set1&size=150x180",
+    "health": 100,
+    "attack": 10,
+    "url": ""
+  },
+  {
+    "name": "Three",
+    "id": 3,
+    "url1": "https://robohash.org/",
+    "url2": ".png?set=set1&size=150x180",
+    "health": 150,
+    "attack": 15,
+    "url": ""
+  },
+  {
+    "name": "Four",
+    "id": 4,
+    "url1": "https://robohash.org/",
+    "url2": ".png?set=set1&size=150x180",
+    "health": 180,
+    "attack": 20,
+    "url": ""
+  }
+]
